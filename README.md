@@ -1,4 +1,4 @@
-<img width="1496" height="265" alt="image" src="https://github.com/user-attachments/assets/a387e7fd-8621-45e2-9c9c-2c828e315802" />
+<img width="1200" height="265" alt="image" src="https://github.com/user-attachments/assets/a387e7fd-8621-45e2-9c9c-2c828e315802" />
 
 # 👋 Olá, mundo Tech!
 💻 Estudante de Ciência da Computação  
