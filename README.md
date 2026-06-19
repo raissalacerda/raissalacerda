@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:9370DB&text=Raissa%20Lacerda&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
-<img width="1500" height="139" alt="image" src="https://github.com/user-attachments/assets/fdcc4cc5-b40a-4897-a2fe-c1bd3e008e2f" />
+<img width="1496" height="265" alt="image" src="https://github.com/user-attachments/assets/a387e7fd-8621-45e2-9c9c-2c828e315802" />
 
 # 👋 Olá, mundo Tech!
 💻 Estudante de Ciência da Computação  
